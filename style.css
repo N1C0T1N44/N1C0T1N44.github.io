@@ -1,0 +1,45 @@
+ .okey{
+
+   display:flex;
+   justify-content: center;
+ }
+
+ .contenedor{
+margin: 30px;
+    justify-content: right;
+
+ }
+
+.letra {
+    margin: 32px;
+}
+.si {
+    margin: 32px;
+}
+.si1 {
+    margin: 32px;
+}
+.si2{
+    margin: 32px;
+}
+.si3 {
+    margin: 32px;
+}
+.si4{
+    margin: 32px;
+}
+.si5{margin: 32px;}
+.si6{margin: 32px;}
+.si7{margin: 32px;}
+.si8{margin: 32px;}
+.si9{margin: 32px;}
+.si10{margin: 32px;}
+.si11{margin: 32px;}
+.noi{
+margin-left: 550px;
+}
+.encuesta{
+
+margin-left: 600px;
+font-size: 20px;
+}
